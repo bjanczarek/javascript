@@ -1,1 +1,1 @@
-bx js 2
+plik JS
